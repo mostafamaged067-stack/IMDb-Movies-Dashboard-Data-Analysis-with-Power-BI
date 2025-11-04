@@ -25,3 +25,9 @@ The dashboard presents key statistics and visualizations that help understand ho
 
 🎯 **Project Outcome**  
 The final dashboard provides a comprehensive analytical view of **IMDb’s top-rated movies**, highlighting the evolution of ratings across decades and enabling quick insights into **data-driven storytelling**.  
+
+---
+
+📍 **Project Source**  
+Developed as part of **Digital Egypt Pioneers Initiative (DEPI)**  
+Created by **Mostafa Maged**
